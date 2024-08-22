@@ -1,0 +1,68 @@
+[
+    {
+      "id": "1",
+      "region": "Tashkent"
+      
+    },
+    {
+      "id": "2",
+      "region": "Andijon"
+      
+    },
+    {
+      "id": "3",
+      "region": "Namangan"
+    },
+    {
+      "id": "4",
+      "region": "Fergana"
+      
+    },
+    {
+        "id": "5",
+        "region": "Jizzax"
+        
+      },
+      {
+        "id": "6",
+        "region": "Sirdaryo"
+        
+      },
+      {
+        "id": "7",
+        "region": "Qashqadaryo"
+        
+      },
+      {
+        "id": "8",
+        "region": "Surxondaryo"
+        
+      },
+
+      {
+        "id": "9",
+        "region": "Samarqand"
+        
+      },
+      {
+        "id": "10",
+        "region": "Qoraqalpogiston"
+        
+      },
+      {
+        "id": "11",
+        "region": "Xorazm"
+        
+      },
+      {
+        "id": "12",
+        "region": "Buxoro"
+        
+      },
+      {
+        "id": "12",
+        "region": "Navoiy"
+        
+      }
+  ]
+  

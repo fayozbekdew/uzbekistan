@@ -1,0 +1,41 @@
+[
+    {
+      "id": "1",
+      "region": "Toshkent shahri",
+      "district": "Olmazor tumani",
+      "treeType": "Mevali va yong‘oq ko‘chatlari",
+      "organization": "ZIYO mahalla fuqarolar yig‘ini",
+      "address": "O‘zbekiston, 100000, Toshkent, Olmazor Tumani, Ziyo mahallasi, Talabalar ko‘chasi, 4/2",
+      "image": "/public/mevali-1.jpeg",
+      "top": "50%",
+      "left": "40%"
+    },
+    {
+      "id": "2",
+      "region": "Toshkent shahri",
+      "district": "Olmazor tumani",
+      "treeType": "Manzarali daraxtlar",
+      "organization": "ZIYO mahalla fuqarolar yig‘ini",
+      "address": "O‘zbekiston, 100000, Toshkent, Olmazor Tumani, Ziyo mahallasi, Talabalar ko‘chasi, 5/2",
+      "image": "/public/manzarali-1.jpeg"
+    },
+    {
+      "id": "3",
+      "region": "Toshkent shahri",
+      "district": "Olmazor tumani",
+      "treeType": "Ko'p yillik daraxtlar",
+      "organization": "ZIYO mahalla fuqarolar yig‘ini",
+      "address": "O‘zbekiston, 100000, Toshkent, Olmazor Tumani, Ziyo mahallasi, Talabalar ko‘chasi, 5/2",
+      "image": "/public/kopYillik-1.jpeg"
+    },
+    {
+      "id": "4",
+      "region": "Toshkent shahri",
+      "district": "Olmazor tumani",
+      "treeType": "Butali daraxtlar",
+      "organization": "ZIYO mahalla fuqarolar yig‘ini",
+      "address": "O‘zbekiston, 100000, Toshkent, Olmazor Tumani, Ziyo mahallasi, Talabalar ko‘chasi, 5/2",
+      "image": "/public/butali-1.jpeg"
+    }
+  ]
+  
