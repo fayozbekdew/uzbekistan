@@ -11,6 +11,7 @@ function UzbSvgComponent() {
   };
   return (
     <svg
+      className="uzb-svg"
       width="604"
       height="395"
       viewBox="0 0 604 395"
